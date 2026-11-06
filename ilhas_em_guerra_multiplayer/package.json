@@ -1,0 +1,14 @@
+{
+  "name": "ilhas-em-guerra-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lobby multiplayer para Ilhas em Guerra",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
